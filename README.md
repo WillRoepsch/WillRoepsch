@@ -1,11 +1,11 @@
 -  Hello, I’m @WillRoepsch
 - I'm currently pursuing a computer engineering degree
 
-Completed projects:
-
-CprE 167
-ComS 227
-ComS 228
+| Completed Projects  | Course Guide |
+| ------------- | ------------- |
+| ComS 228  | Content Cell  |
+| ConmS 227  | Content Cell  |
+| CprE 185  | Content Cell  |
 
 <!---
 WillRoepsch/WillRoepsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
