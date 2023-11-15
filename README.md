@@ -4,7 +4,7 @@
 | Completed Projects  | Course Guide |
 | ------------- | ------------- |
 | ComS 228  | Introduction to Data Structures  |
-| [ComS 227](README.md)  | Object-oriented Programming  |
+| [ComS 227](/README.md)  | Object-oriented Programming  |
 | CprE 185  | Introduction to Computer Engineering and Problem Solving I  |
 
 <!---
