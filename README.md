@@ -3,9 +3,9 @@
 
 | Completed Projects  | Course Guide |
 | ------------- | ------------- |
-| ComS 228  | Content Cell  |
-| ConmS 227  | Content Cell  |
-| CprE 185  | Content Cell  |
+| ComS 228  | Introdution to Data Structures  |
+| ConmS 227  | Object-oriented Prgramming  |
+| CprE 185  | Introduction to Computer Engineering and Problem Solving I  |
 
 <!---
 WillRoepsch/WillRoepsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
