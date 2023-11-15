@@ -3,8 +3,8 @@
 
 | Completed Projects  | Course Guide |
 | ------------- | ------------- |
-| ComS 228  | Introdution to Data Structures  |
-| ComS 227  | Object-oriented Prgramming  |
+| ComS 228  | Introduction to Data Structures  |
+| ComS 227  | Object-oriented Programming  |
 | CprE 185  | Introduction to Computer Engineering and Problem Solving I  |
 
 <!---
