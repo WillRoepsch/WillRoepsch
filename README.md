@@ -1,11 +1,4 @@
--  Hello, I’m @WillRoepsch
-- I'm currently pursuing a computer engineering degree
-
-| Completed Projects  | Course Guide |
-| ------------- | ------------- |
-| ComS 228  | Introdution to Data Structures  |
-| ComS 227  | Object-oriented Prgramming  |
-| CprE 185  | Introduction to Computer Engineering and Problem Solving I  |
+Introduction to Computer Engineering. Project based examples from computer engineering. Individual interactive skills for small and large groups. Computer-based projects. Solving engineering problems and presenting solutions through technical reports. Solution of engineering problems using a programming language.
 
 <!---
 WillRoepsch/WillRoepsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
